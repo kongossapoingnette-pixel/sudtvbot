@@ -1,6 +1,4 @@
 # sudtvbot
-# Ndongo Telegram Bot
-
 Un bot Telegram pour partager automatiquement les liens de tes autres chaînes et t’aider à publier du contenu.
 
 ## Fonctionnalités
